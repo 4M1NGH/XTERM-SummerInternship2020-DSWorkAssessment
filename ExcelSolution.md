@@ -1,18 +1,24 @@
-Assumptions
------------
+## Table of Content
+- [Assumptions](#souces)
+- [Exploratory Data Analytics Step](#general-info)
+- [Most Popular Scooter Locations](#local)
+- [Operation Time Cost](#collaboration)
+- [Most Efficient Scooter Charging Strategy](#collaboration)
 
 
-Exploratory Data Analytics Step
--------------------------------
+## Assumptions
 
 
-Most Popular Scooter Locations
-------------------------------
+## Exploratory Data Analytics Step
 
 
-Operation Time Cost
--------------------
+## Most Popular Scooter Locations
 
 
-Most Efficient Scooter Charging Strategy
-----------------------------------------
+
+## Operation Time Cost
+
+
+
+## Most Efficient Scooter Charging Strategy
+
